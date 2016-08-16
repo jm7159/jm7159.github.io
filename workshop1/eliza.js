@@ -43,10 +43,10 @@ var rules = {
   "~*x name ~*y": [
     "I am not interested in names",
   ],
-  "~*x sorry ~*y": [
-    "Please don't apologize",
-    "Apologies are not necessary",
-    "What feelings do you have when you apologize",
+  "~*x cuckold ~*y": [
+    "I'LL FREAKIN BASH YE!",
+    "I am more interested in being the bull, not the cuck.",
+    "Famous examples of cuckolds in history include Napoleon Bonaparte and lead singer of Pearl Jam Eddie Vedder.",
   ],
   "~*x I remember ~*y": [
     "Do you often think of ~y?",
