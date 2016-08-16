@@ -48,13 +48,10 @@ var rules = {
     "I am more interested in being the bull, not the cuck.",
     "Famous examples of cuckolds in history include Napoleon Bonaparte and lead singer of Pearl Jam Eddie Vedder.",
   ],
-  "~*x I remember ~*y": [
-    "Do you often think of ~y?",
-    "Does thinking of ~y bring anything else to mind?",
-    "What else do you remember?",
-    "Why do you recall ~y right now?",
-    "What in the present situation reminds you of ~y?",
-    "What is the connection between me and ~y?",
+  "~*x bees ~*y": [
+    "Save those lil dudes!",
+    "They are very interested in my food! I eat mostly yellow things.",
+
   ],
   "~*x do you remember ~*y": [
     "Did you think I would forget ~y?",
